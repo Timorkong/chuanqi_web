@@ -1,0 +1,25 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.0.0",
+    "mime": "^2.4.7",
+    "mine": "^0.1.0",
+    "mz": "^2.7.0",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "supervisor": "^0.12.0"
+  }
+}
